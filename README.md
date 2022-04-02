@@ -1,5 +1,5 @@
 # 
-![logo](./images/1.png)
+<p align="center">[logo](./images/1.png)</p>
 
 ![Under construction](./images/4.png)
 ---
