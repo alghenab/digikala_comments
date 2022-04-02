@@ -1,0 +1,10 @@
+
+numpy
+pandas
+matplotlib
+keras
+hazm
+re
+arabic_reshaper
+transformers
+nltk
