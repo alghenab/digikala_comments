@@ -1,6 +1,8 @@
 # 
 <p align="center">[logo](./images/1.png)</p>
-
+<p align="center">
+  <img width="200" src="./images/1.png" alt="logo">
+</p>
 ![Under construction](./images/4.png)
 ---
 
