@@ -1,9 +1,7 @@
 # 
+![logo](./images/1.png)
 
-[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRANmUt0jRT1qe57jW7SDV4c3Ql_CH0LkfmQA&usqp=CAU](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRANmUt0jRT1qe57jW7SDV4c3Ql_CH0LkfmQA&usqp=CAU)
-
-![Capture.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ddf3f390-147f-4308-bd0a-03f645b4fd3b/Capture.png)
-
+![Under construction](./images/4.png)
 ---
 
 ## Description
@@ -22,7 +20,7 @@ $ pip install -r requirements.txt
 
 ## Data Source
 
-[Quera](https://quera.ir/course/assignments/10668/problems)
+digikala comment verification [Quera](https://quera.ir/course/assignments/10668/problems)
 
 ### full versions
 
