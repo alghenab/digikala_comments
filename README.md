@@ -6,7 +6,7 @@
 
 ## Description
 
-In this project, I went throw making a Classification model using `BERT` on a Dataset containing the comments and ratings from [**Digikala**](http://digikala.com) (an E-commerce company).
+In this repo, I went throw making a Classification model using `BERT` on a Dataset containing the comments and ratings from [**Digikala**](http://digikala.com) (an E-commerce company).
 
 ---
 
