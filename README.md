@@ -28,6 +28,4 @@ digikala comment verification [Quera](https://quera.ir/course/assignments/10668/
 
 ---
 
-## Finally...
 
-💫 If you liked the content, please consider adding a **star**. 💫
